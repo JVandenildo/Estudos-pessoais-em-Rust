@@ -1,6 +1,6 @@
 # Studies in Rust
 
-Repository for C++ algorithm/syntax testing.
+Repository for Rust algorithm/syntax testing.
 
 ## Table of content
 
@@ -9,7 +9,7 @@ Repository for C++ algorithm/syntax testing.
 
 ## Naming conventions
 
-> [!INFO] INFO  
+> [!TIP]  
 > Here are some conventions, for more details go to the [documentation](https://rust-lang.github.io/api-guidelines/naming.html).
 
 | Item            | Convention             |
