@@ -6,6 +6,8 @@ Repository for Rust algorithm/syntax testing.
 
 1. [Naming conventions](#naming-conventions);
 2. [References](#references).
+   1. [References from articles across web](#references-from-articles-across-web);
+   2. [References from videos](#references-from-videos).
 
 ## Naming conventions
 
@@ -33,5 +35,11 @@ Some important points to have in mind:
 
 1. [Rust official website](https://www.rust-lang.org/);
 2. [Rust documentation](https://doc.rust-lang.org/stable/book/index.html);
-3. [Tutorial on Rust](https://youtu.be/T_KrYLW4jw8?si=ClI3lnU5kgE4kO46) from [@TechWithTim](https://www.youtube.com/@TechWithTim);
-4. [Tutorial on VSCode with Rust](https://youtu.be/jvnZr7bJUfU?si=ZjpUwl-pvGJCwAaD) from [@doggodotrs](https://www.youtube.com/@doggodotrs).
+3. [roadmap.sh/rust](https://roadmap.sh/rust).
+
+### References from articles across web
+
+### References from videos
+
+1. [Tutorial on Rust](https://youtu.be/T_KrYLW4jw8?si=ClI3lnU5kgE4kO46) from [@TechWithTim](https://www.youtube.com/@TechWithTim);
+2. [Tutorial on VSCode with Rust](https://youtu.be/jvnZr7bJUfU?si=ZjpUwl-pvGJCwAaD) from [@doggodotrs](https://www.youtube.com/@doggodotrs).
