@@ -5,9 +5,20 @@ Repository for Rust algorithm/syntax testing.
 ## Table of content
 
 1. [Naming conventions](#naming-conventions);
-2. [References](#references).
+2. [Installing Rust and Cargo](#installing-rust-and-cargo);
+3. [References](#references).
    1. [References from articles across web](#references-from-articles-across-web);
    2. [References from videos](#references-from-videos).
+
+## Installing Rust and Cargo
+
+In order to install Rust, go to the official website [rust-lang.org](https://www.rust-lang.org) and download the appropriate installation file for the operating system. It will install `rustup`, which is the preferred tool for installing, updating and managing the core Rust tooling.  
+It is worth noticing that, to create executables, is necessary a linker on the machine, such as 'GCC'. Otherwise, errors will be faced when trying to run `rustc` or `cargo`. This is one necessary thing that `rustup` doesn't install.
+
+> [!TIP]
+> In doubt go to [doc.rust-lang.org/stable/book/ch01-01-installation.html](https://doc.rust-lang.org/stable/book/ch01-01-installation.html).
+
+Rust is updatable at any time by running `rustup update` the terminal.
 
 ## Naming conventions
 
