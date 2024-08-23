@@ -1,6 +1,11 @@
 # Studies in Rust
 
-Repository for Rust algorithm/syntax testing.
+> [!IMPORTANT]
+> This repository is for Rust algorithm/syntax testing.
+
+Rust is a programming language focused on performance, safety, and concurrency. It accomplishes these goals without having a garbage collector.  
+Its syntax is similar to C++, but Rust offers better memory safety while maintaining high performance.  
+Originally created by [Graydon Hoare](https://github.com/graydon) on Mozilla Research, with contributions from [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) (JavaScript's creator).
 
 ## Table of content
 
@@ -46,11 +51,17 @@ Some important points to have in mind:
 
 1. [Rust official website](https://www.rust-lang.org/);
 2. [Rust documentation](https://doc.rust-lang.org/stable/book/index.html);
-3. [roadmap.sh/rust](https://roadmap.sh/rust).
+3. [roadmap.sh/rust](https://roadmap.sh/rust);
+4. [app.daily.dev/tags/rust?ref=roadmapsh](https://app.daily.dev/tags/rust?ref=roadmapsh).
 
 ### References from articles across web
+
+1. [doc.rust-lang.org/stable/rust-by-example/index.html](https://doc.rust-lang.org/stable/rust-by-example/index.html).
 
 ### References from videos
 
 1. [Tutorial on Rust](https://youtu.be/T_KrYLW4jw8) from [@TechWithTim](https://www.youtube.com/@TechWithTim);
-2. [Tutorial on VSCode with Rust](https://youtu.be/jvnZr7bJUfU) from [@doggodotrs](https://www.youtube.com/@doggodotrs).
+2. [Tutorial on VSCode with Rust](https://youtu.be/jvnZr7bJUfU) from [@doggodotrs](https://www.youtube.com/@doggodotrs);
+3. "[Rust Installation, Hello World, Hello Cargo - Full Crash Rust Tutorial for Beginners](https://youtu.be/R33h77nrMqc?si=k01OHbuAwTHRpd3a)" do canal [@francescociulla](https://www.youtube.com/@francescociulla);
+4. Playlist "[Convince your boss to use Rust](https://youtube.com/playlist?list=PLZaoyhMXgBzqkaLKR8HHWZaASMvW4gRtZ&si=M42726r8XPanN8ps)" do canal [@NoBoilerplate](https://www.youtube.com/@NoBoilerplate);
+5. "[Rust in 100 seconds](https://youtu.be/5C_HPTJg5ek)" do canal [@Fireship](https://www.youtube.com/@Fireship).
