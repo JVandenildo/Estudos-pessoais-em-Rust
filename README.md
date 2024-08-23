@@ -15,6 +15,8 @@ Some IDEs for coding in Rust are:
 - [Vim](https://www.vim.org/);
 - [Emacs](https://www.gnu.org/software/emacs/).
 
+`Rust REPL` is an interactive shell in which is possible to write and test Rust snippets in real-time. It is not written in Rust, and do not require to be compiled. It is available via third-party tool such as `evcxr-repl`.
+
 ## Table of content
 
 1. [Naming conventions](#naming-conventions);
