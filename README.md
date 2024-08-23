@@ -5,7 +5,15 @@
 
 Rust is a programming language focused on performance, safety, and concurrency. It accomplishes these goals without having a garbage collector.  
 Its syntax is similar to C++, but Rust offers better memory safety while maintaining high performance.  
-Originally created by [Graydon Hoare](https://github.com/graydon) on Mozilla Research, with contributions from [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) (JavaScript's creator).
+Originally created by [Graydon Hoare](https://github.com/graydon) on Mozilla Research, with contributions from [Brendan Eich](https://en.wikipedia.org/wiki/Brendan_Eich) (JavaScript's creator).  
+Some IDEs for coding in Rust are:
+
+- [Visual Studio Code](https://code.visualstudio.com/);
+  For having support for Rust via popular plugins, like "rust-analyzer".
+- [RustRover](https://www.jetbrains.com/rust/);
+  A dedicated IDE for Rust development by JetBrains.
+- [Vim](https://www.vim.org/);
+- [Emacs](https://www.gnu.org/software/emacs/).
 
 ## Table of content
 
