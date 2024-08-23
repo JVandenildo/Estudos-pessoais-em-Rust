@@ -9,9 +9,9 @@ Originally created by [Graydon Hoare](https://github.com/graydon) on Mozilla Res
 Some IDEs for coding in Rust are:
 
 - [Visual Studio Code](https://code.visualstudio.com/);
-  For having support for Rust via popular plugins, like "rust-analyzer".
+  - For having support for Rust via popular plugins, like "rust-analyzer".
 - [RustRover](https://www.jetbrains.com/rust/);
-  A dedicated IDE for Rust development by JetBrains.
+  - A dedicated IDE for Rust development by JetBrains.
 - [Vim](https://www.vim.org/);
 - [Emacs](https://www.gnu.org/software/emacs/).
 
@@ -22,7 +22,7 @@ Some IDEs for coding in Rust are:
 1. [Naming conventions](#naming-conventions);
 2. [Installing Rust and Cargo](#installing-rust-and-cargo);
 3. [References](#references).
-   1. [References from articles across web](#references-from-articles-across-web);
+   1. [References from internet articles](#references-from-internet-articles);
    2. [References from videos](#references-from-videos).
 
 ## Installing Rust and Cargo
@@ -64,7 +64,7 @@ Some important points to have in mind:
 3. [roadmap.sh/rust](https://roadmap.sh/rust);
 4. [app.daily.dev/tags/rust?ref=roadmapsh](https://app.daily.dev/tags/rust?ref=roadmapsh).
 
-### References from articles across web
+### References from internet articles
 
 1. [doc.rust-lang.org/stable/rust-by-example/index.html](https://doc.rust-lang.org/stable/rust-by-example/index.html).
 
