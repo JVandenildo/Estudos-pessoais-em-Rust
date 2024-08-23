@@ -41,5 +41,5 @@ Some important points to have in mind:
 
 ### References from videos
 
-1. [Tutorial on Rust](https://youtu.be/T_KrYLW4jw8?si=ClI3lnU5kgE4kO46) from [@TechWithTim](https://www.youtube.com/@TechWithTim);
-2. [Tutorial on VSCode with Rust](https://youtu.be/jvnZr7bJUfU?si=ZjpUwl-pvGJCwAaD) from [@doggodotrs](https://www.youtube.com/@doggodotrs).
+1. [Tutorial on Rust](https://youtu.be/T_KrYLW4jw8) from [@TechWithTim](https://www.youtube.com/@TechWithTim);
+2. [Tutorial on VSCode with Rust](https://youtu.be/jvnZr7bJUfU) from [@doggodotrs](https://www.youtube.com/@doggodotrs).
