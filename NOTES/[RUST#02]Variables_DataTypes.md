@@ -20,7 +20,7 @@ Por padrão do Rust, variáveis tem o escopo dentro do bloco que estão, além d
 ## Enums
 
 Um enum (abreviação de _enumeration_) é um tipo de dado customizado que permite ao programador definir um tipo apenas anumerando (listando um por um) todas as suas possíveis variações. No Rust, caso alguma coisa for de um conjunto de possibilidades (`Pedra`, `Papel` ou `Tesoura`, por exemplo), talvez seja mais apropriado representar esse tipo de dado com um enum (`enum RPsChoice { Rock, Paper Scissors }`).  
-Uma instância de um `enum` pode ter um e somente um das variantes declaradas de enum em qualquer momento. Diferente de enumerações algumas outras linguagens, variantes no Rust são são restritas a um tipo de dado singular.
+Uma instância de um `enum` pode ter uma e somente uma das variantes declaradas do enum em qualquer momento. Diferente de enumerações em outras linguagens, variantes no Rust não são restritas a um tipo de dado único. Quando um `enum` é definido, é possível decidir para cada um de suas variantes se terão ou não algum tipo de dado diferente, é possível também permitir deixar tipos em quantidades diferentes. É possível colocar estruturas e outros enums em uma variante.
 
 ## Referências
 
