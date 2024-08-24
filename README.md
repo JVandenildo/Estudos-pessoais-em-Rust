@@ -19,9 +19,10 @@ Some IDEs for coding in Rust are:
 
 ## Table of content
 
-1. [Naming conventions](#naming-conventions);
-2. [Installing Rust and Cargo](#installing-rust-and-cargo);
-3. [References](#references).
+1. [Installing Rust and Cargo](#installing-rust-and-cargo);
+2. [Naming conventions](#naming-conventions);
+3. [Constructs](#constructs);
+4. [References](#references).
    1. [References from internet articles](#references-from-internet-articles);
    2. [References from videos](#references-from-videos).
 
@@ -34,6 +35,15 @@ It is worth noticing that, to create executables, is necessary a linker on the m
 > In doubt go to [doc.rust-lang.org/stable/book/ch01-01-installation.html](https://doc.rust-lang.org/stable/book/ch01-01-installation.html).
 
 Rust is updatable at any time by running `rustup update` the terminal.
+
+## Constructs
+
+In Rust, "constructs" refer to different elements used to build the structure of the program. Some constructs are:
+
+- **Variables**: store data, its immutable or mutable status is determined at their declaration with `let` and `let mut`, respectively;
+- **Functions**: reusable blocks of code defined by the `fn` keyword;
+- **Data types**: in Rust are static and must be declared upfront. These include simple _primitive types_ (like integers, booleans, and floats), as well as _complex types_ (like arrays, tuples, all the custom types declared by the programmer), and other types from Rust's standard library or community crates;
+- **Control flow**: structures that help direct the flow of code execution These include `if`, `else`, `loop`, `while`, and `for` blocks. Exception handling in Rust leverages the `Result<T, E>` and `Option<T>` enums alongside the `match` construct's ability to perform concise pattern matching.
 
 ## Naming conventions
 
