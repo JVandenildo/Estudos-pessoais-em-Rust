@@ -20,8 +20,9 @@ Some IDEs for coding in Rust are:
 ## Table of content
 
 1. [Installing Rust and Cargo](#installing-rust-and-cargo);
-2. [Naming conventions](#naming-conventions);
-3. [Constructs](#constructs);
+2. [Constructs](#constructs);
+3. [Good practices](#good-practices);
+   1. [Naming conventions](#naming-conventions).
 4. [References](#references).
    1. [References from internet articles](#references-from-internet-articles);
    2. [References from videos](#references-from-videos).
@@ -45,7 +46,12 @@ In Rust, "constructs" refer to different elements used to build the structure of
 - **Data types**: in Rust are static and must be declared upfront. These include simple _primitive types_ (like integers, booleans, and floats), as well as _complex types_ (like arrays, tuples, all the custom types declared by the programmer), and other types from Rust's standard library or community crates;
 - **Control flow**: structures that help direct the flow of code execution These include `if`, `else`, `loop`, `while`, and `for` blocks. Exception handling in Rust leverages the `Result<T, E>` and `Option<T>` enums alongside the `match` construct's ability to perform concise pattern matching.
 
-## Naming conventions
+## Good practices
+
+> [!TIP]
+> Run `cargo fmt` on local terminal to format whole project.
+
+### Naming conventions
 
 > [!TIP]  
 > Here are some conventions, for more details go to the [documentation](https://rust-lang.github.io/api-guidelines/naming.html).
