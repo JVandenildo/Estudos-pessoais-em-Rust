@@ -90,7 +90,8 @@ Quando a linha `cargo doc --open` for executada, esses comentários aparecerão 
 
 ## Referências
 
-1. [doc.rust-lang.org/book/ch03-04-comments.html](https://doc.rust-lang.org/book/ch03-04-comments.html).
+1. [doc.rust-lang.org/book/ch03-04-comments.html](https://doc.rust-lang.org/book/ch03-04-comments.html);
+2. [doc.rust-lang.org/book/ch14-02-publishing-to-crates-io.html](https://doc.rust-lang.org/book/ch14-02-publishing-to-crates-io.html).
 
 ### Referências em artigos na web
 
